@@ -1,0 +1,36 @@
+body {
+    background-color :#000033;
+    display: block;
+    margin: 0 auto;
+    border: 3px;
+    border-style: solid;
+    border-color: #1D1E45;
+    max-width: 950px;
+    font-family: 'Times New Roman', Times, serif;
+    }
+   #header-img  figure{
+       margin:0;
+   }
+   #nav{
+       clear:both;
+   }
+   .top-nav{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+   }
+   
+   .top-nav-li{
+       float:left;
+   }
+    .top-nav-li a{
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+}
+#nav a:hover {
+color: red;
+}
+ 
